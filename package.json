@@ -4,7 +4,9 @@
     "dev": "next dev --turbo",
     "build": "next build",
     "start": "next start",
-    "delete": "rm -rf app/n"
+    "delete": "rm -rf app/n",
+    "crawl": "bun run services/github-follower-cache/index.ts",
+    "crawl:migrate": "bun run -e \"const{CacheDatabase}=require('./services/github-follower-cache/db');new CacheDatabase(process.env.POSTGRES_URL).migrate().then(()=>console.log('done'))\""
   },
   "dependencies": {
     "@mdx-js/loader": "^3.0.1",
@@ -13,6 +15,7 @@
     "@tailwindcss/postcss": "4.0.0-alpha.23",
     "@types/mdx": "^2.0.13",
     "@vercel/analytics": "^1.3.1",
+    "graphql": "^16.13.2",
     "next": "15.0.0-canary.143",
     "next-view-transitions": "^0.3.0",
     "postgres": "^3.4.4",

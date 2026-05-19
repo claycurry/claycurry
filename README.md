@@ -11,14 +11,7 @@ After 1.5 years building closed-source e-commerce software, contributing to mode
 
 - **Living in the future** - Learning and building tools to make agentic engineering faster for everyone
 - **Writing about AI workflows** - Sharing my learnings on [claycurry.studio](https://claycurry.studio)
-- **Rapid prototyping** - Full apps in days, not months
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clay-curry)
-![X](https://img.shields.io/badge/claycurry__-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
-[![Bluesky](https://img.shields.io/badge/@claycurry.com-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/claycurry.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/clay-curry)
+- **Rapid prototyping** - Full apps + working patches in days, not months
 
 ## Philosophy
 
@@ -28,6 +21,13 @@ After 1.5 years building closed-source e-commerce software, contributing to mode
 
 - Powered by OKC coffee culture.
 - Coaches LGBTQ+ folks at [Out In Tech](https://outintech.com/)
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clay-curry)
+![X](https://img.shields.io/badge/claycurry__-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
+[![Bluesky](https://img.shields.io/badge/@claycurry.com-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/claycurry.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/clay-curry)
 
 ## Powered by
 

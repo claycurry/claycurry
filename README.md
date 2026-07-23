@@ -10,7 +10,7 @@ Currently in vibe-fixing mode – improving projects I love at ludicrous speed.
 ## What I'm Doing
 
 - **Rapid prototyping** - Research papers, open source projects.
-- **Living in the future** - Learning and building tools to program rapidly.
+- **Living in the future** - Learning and building tools to automate everything.
 - **Writing about AI workflows** - Sharing my learnings on [claycurry.com](https://claycurry.com)
 
 ## Connect

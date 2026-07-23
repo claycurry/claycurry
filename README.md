@@ -20,7 +20,7 @@ Currently in vibe-fixing mode – improving projects I love at ludicrous speed.
 [![Bluesky](https://img.shields.io/badge/@claycurry.com-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/claycurry.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/clay-curry)
 
-## Powered by
+## Find me using
 
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)

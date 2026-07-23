@@ -1,26 +1,17 @@
 # Hi, I'm Clay
 
-📍 **Seattle ↔ OKC ↔ DC** | 🤖 **incoming swe @ [doi](https://www.doi.gov/)** | 🚀 prev. @ **[amazon.com](https://www.amazon.com/) + [ou.edu](https://www.ou.edu/)**
+📍 **OKC, Seattle** | previously: @ **[amazon.com](https://www.amazon.com/), [ou.edu](https://www.ou.edu/)**
 
 
 > **I enjoy building & contributing to strange and useful open source software.**
 
-After 1.5 years building closed-source e-commerce software, contributing to modern open web feels like a breath of fresh air. Currently in vibe-fixing mode – improving projects I love at ludicrous speed.
+Currently in vibe-fixing mode – improving projects I love at ludicrous speed.
 
 ## What I'm Doing
 
-- **Living in the future** - Learning and building tools to make agentic engineering faster for everyone
-- **Writing about AI workflows** - Sharing my learnings on [claycurry.studio](https://claycurry.studio)
-- **Rapid prototyping** - Full apps + working patches in days, not months
-
-## Philosophy
-
-> "Make better things" - I build tools to solve my own problems, then share them with the world.
-
-## Random Facts
-
-- Powered by OKC coffee culture.
-- Coaches LGBTQ+ folks at [Out In Tech](https://outintech.com/)
+- **Rapid prototyping** - Research papers, open source projects.
+- **Living in the future** - Learning and building tools to program rapidly.
+- **Writing about AI workflows** - Sharing my learnings on [claycurry.com](https://claycurry.com)
 
 ## Connect
 
